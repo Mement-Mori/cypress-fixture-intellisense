@@ -24,7 +24,7 @@
 		"copy-test-files": "node lib/copy.js"
 	},
 	"dependencies": {
-		"glob": "^7.1.6"
+		"glob": "^7.1.7"
 	},
 	"devDependencies": {
 		"@types/glob": "7.1.3",
